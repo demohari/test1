@@ -2,4 +2,8 @@ demo.py
 README1.md
 trees.csv
 Makefile
+<<<<<<< HEAD
 /env
+=======
+.vscode
+>>>>>>> b49309bca5ec896aa6b92eafbca56b4a967a7e8e
