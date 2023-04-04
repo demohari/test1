@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 flask
-
-=======
-pandas
->>>>>>> b49309bca5ec896aa6b92eafbca56b4a967a7e8e
+ipykernel
+scikit-learn
