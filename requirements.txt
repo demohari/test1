@@ -5,3 +5,4 @@ seaborn
 flask
 ipykernel
 scikit-learn
+statsmodels
